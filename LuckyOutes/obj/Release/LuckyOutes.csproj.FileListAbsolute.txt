@@ -1,0 +1,11 @@
+D:\Huyefen\Career\Documents\3.活动\20231128团建主持\抽奖程序\LuckyOutes\bin\Release\LuckyOutes.exe.config
+D:\Huyefen\Career\Documents\3.活动\20231128团建主持\抽奖程序\LuckyOutes\bin\Release\LuckyOutes.exe
+D:\Huyefen\Career\Documents\3.活动\20231128团建主持\抽奖程序\LuckyOutes\bin\Release\LuckyOutes.pdb
+D:\Huyefen\Career\Documents\3.活动\20231128团建主持\抽奖程序\LuckyOutes\obj\Release\LuckyOutes.csproj.AssemblyReference.cache
+D:\Huyefen\Career\Documents\3.活动\20231128团建主持\抽奖程序\LuckyOutes\obj\Release\LuckyOutes.csproj.SuggestedBindingRedirects.cache
+D:\Huyefen\Career\Documents\3.活动\20231128团建主持\抽奖程序\LuckyOutes\obj\Release\LuckyOutes.Form1.resources
+D:\Huyefen\Career\Documents\3.活动\20231128团建主持\抽奖程序\LuckyOutes\obj\Release\LuckyOutes.Properties.Resources.resources
+D:\Huyefen\Career\Documents\3.活动\20231128团建主持\抽奖程序\LuckyOutes\obj\Release\LuckyOutes.csproj.GenerateResource.cache
+D:\Huyefen\Career\Documents\3.活动\20231128团建主持\抽奖程序\LuckyOutes\obj\Release\LuckyOutes.csproj.CoreCompileInputs.cache
+D:\Huyefen\Career\Documents\3.活动\20231128团建主持\抽奖程序\LuckyOutes\obj\Release\LuckyOutes.exe
+D:\Huyefen\Career\Documents\3.活动\20231128团建主持\抽奖程序\LuckyOutes\obj\Release\LuckyOutes.pdb
